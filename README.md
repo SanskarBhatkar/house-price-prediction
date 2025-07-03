@@ -6,25 +6,22 @@ Linear Regression model to predict house prices using area, bedrooms, and bathro
 House Price Prediction 🏡
 
 This project builds a Linear Regression model to predict house prices based on:
-
 Living Area (GrLivArea)
 Number of Bedrooms (BedroomAbvGr)
 Number of Bathrooms (FullBath)
+
 📂 Dataset
-
 Used the Kaggle House Prices - Advanced Regression Techniques Dataset
-
 File used: train.csv
 
 📌 Technologies Used
-
 Python
 Pandas
 Matplotlib & Seaborn
 Scikit-Learn
 Google Colab
-📈 Project Steps
 
+📈 Project Steps
 Data Upload
 Data Cleaning
 Feature Selection
